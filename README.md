@@ -10,9 +10,9 @@ AI Algorithm Engineer with a background in Computational Mathematics.
 
 ## Featured Projects
 
-- bilateral-jacobi-svd
 - llm-training-lab
 - embodied-ai-onboarding
+- bilateral-jacobi-svd
 <!--
 **SophiaShuangWu/SophiaShuangWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
