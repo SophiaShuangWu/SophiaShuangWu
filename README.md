@@ -1,5 +1,19 @@
-## Hi there 👋
+# Hi, I'm Shuang Wu.
 
+AI Algorithm Engineer with a background in Computational Mathematics.
+
+## Interests
+
+- LLM Training
+- Embodied AI
+- Machine Learning
+- Numerical Linear Algebra
+
+## Featured Projects
+
+- bilateral-jacobi-svd
+- llm-training-lab
+- embodied-ai-onboarding
 <!--
 **SophiaShuangWu/SophiaShuangWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
