@@ -6,7 +6,6 @@ AI Algorithm Engineer with a background in Computational Mathematics.
 
 - LLM Training
 - Embodied AI
-- Machine Learning
 - Numerical Linear Algebra
 
 ## Featured Projects
