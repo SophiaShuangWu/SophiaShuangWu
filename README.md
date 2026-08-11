@@ -2,7 +2,7 @@
 
 ## Interests
 
-- Agent
+- AGI
 - LLM
 
 ## Featured Projects
