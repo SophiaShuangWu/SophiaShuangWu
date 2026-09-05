@@ -2,13 +2,15 @@
 
 ## Interests
 
-- AGI
 - LLM
+- AGI
+- Human Intelligence
 
 ## Featured Projects
 
-- arc-agi-3-agents
 - nanochat
+- mit-ocw-6.0001
+- mit-ocw-6.0002
 
 <!--
 **SophiaShuangWu/SophiaShuangWu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
