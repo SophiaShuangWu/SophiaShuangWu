@@ -3,8 +3,6 @@
 ## Interests
 
 - LLM
-- AGI
-- Human Intelligence
 
 ## Featured Projects
 
